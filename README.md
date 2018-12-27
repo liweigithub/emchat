@@ -1,4 +1,4 @@
-##环信服务端SDK-DEMO 
+##环信服务端SDK-DEMO
 - 使用方式
   
   将此mode依赖到需要使用的项目里
@@ -6,7 +6,7 @@
   此sdk里面有一个 示例：config.properties [[将此文件复制到您的项目]] src resource下 
    
 ###请求协议 http or  https（需要证书）
-API_PROTOCAL = http
+    API_PROTOCAL = http
 ###环信请求地址（根据实际业务选择）
 ###IM接口地址：a1.easemob.com
 ###客服接口地址：a1-vip5.easemob.com
