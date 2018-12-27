@@ -1,30 +1,30 @@
 ##环信服务端SDK-DEMO
    
-#####使用方式
+##### 使用方式
   
   将此mode依赖到需要使用的项目里
 	  
   此sdk里面有一个 示例：config.properties [[将此文件复制到您的项目]] src resource下 
    
-#####请求协议 http or  https（需要证书）
+##### 请求协议 http or  https（需要证书）
     API_PROTOCAL = http
-#####环信请求地址（根据实际业务选择）
-#####IM接口地址：a1.easemob.com
-#####客服接口地址：a1-vip5.easemob.com
+##### 环信请求地址（根据实际业务选择）
+##### IM接口地址：a1.easemob.com
+##### 客服接口地址：a1-vip5.easemob.com
     API_HOST = a1.easemob.com 
-#####环信组织名
+##### 环信组织名
     API_ORG = xxx
-#####环信应用名称
+##### 环信应用名称
     API_APP = xxx
-#####clientid
+##### clientid
     APP_CLIENT_ID = xxx
-#####Secret
+##### Secret
     APP_CLIENT_SECRET = xxx
-#####rest接口请求方式 httpclient / jersey
+##### rest接口请求方式 httpclient / jersey
     APP_IMP_LIB = httpclient
-#####证书路径
+##### 证书路径
     CACERT_FILE_PATH = C:/Users/wstv/Desktop/xiaohongma.keystore
-#####证书密码
+##### 证书密码
     CACERT_FILE_PASSWORD = xxx
     
     
