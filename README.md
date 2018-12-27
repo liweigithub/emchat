@@ -1,8 +1,9 @@
 ##环信服务端SDK-DEMO
-- 使用方式
+   
+#####使用方式
   
   将此mode依赖到需要使用的项目里
-  
+	  
   此sdk里面有一个 示例：config.properties [[将此文件复制到您的项目]] src resource下 
    
 #####请求协议 http or  https（需要证书）
